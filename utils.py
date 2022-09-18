@@ -9,7 +9,7 @@ WAIT_TIME_UNIT = 0.35  # in seconds
 FREQ = 1700  # in HZ
 
 class Utils:
-
+    #TEST
     def __init__(self, word):
         self.word = word
         self.data = {}
